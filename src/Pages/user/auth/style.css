@@ -1,0 +1,58 @@
+/* login css start */
+.login-page,
+.signup-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+  }
+  
+  .login-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f2f2f2;
+    padding: 2rem;
+    border-radius: 5px;
+  }
+  
+  .form-group {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1rem;
+  }
+  
+  label {
+    margin-bottom: 0.5rem;
+  }
+  
+  input[type="email"],
+  input[type="text"],
+  input[type="password"] {
+    padding: 0.5rem;
+    border-radius: 3px;
+    border: none;
+    background-color: #fff;
+    width: 300px;
+  }
+  
+  button[type="submit"] {
+    padding: 0.5rem 1rem;
+    border-radius: 3px;
+    border: none;
+    background-color: #4CAF50;
+    color: #fff;
+    cursor: pointer;
+  }
+  .goTo-login,
+  .goTo-signIn{
+    margin-top: 20px;
+  }
+  .goTo-login a,
+  .goTo-signIn a{
+    color: #000;
+    text-decoration: none;
+  }
+  
+/* login css End */

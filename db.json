@@ -15,5 +15,40 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "signin": [
+    {
+      "name": "umar",
+      "email": "Umarfarooque@gmail.com",
+      "password": "2246",
+      "id": 1
+    },
+    {
+      "name": "classy",
+      "email": "adfaf@gmail.com",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "name": "sadf",
+      "email": "umar@gmail.com",
+      "password": "asda",
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    }
+  ]
 }
